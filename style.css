@@ -1,0 +1,48 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+width:100%;
+font-size: 25px;
+margin-top: 0px;
+}
+
+#click_me{
+    font-size: 20px;
+}
+
+#status{
+    font-size: 15px;
+    margin-left:40px;
+}
+
+#item{
+    font-size: 15px;
+ 
+}
+
+.footer{
+    bottom:0;
+    position:fixed;
+    background-color: black;
+    color:white;
+    font-size:15px;
+    line-height: 2;
+    width:100%;
+    text-align:center;
+
+
+}
+
+canvas{
+    border-color: white;
+    border-width:4px;
+    border-style:double;
+    border-radius: 20px;
+    margin-top:75px;
+    box-shadow: 10px 10px 10px rgb(111, 194, 211);
+    
+    
+    
+}
